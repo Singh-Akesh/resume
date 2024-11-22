@@ -1,0 +1,186 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Akeshwar D. Singh",
+    "email": "aakidatta@gmail.com",
+    "phone": "6366759073",
+    "location": {
+      "address": "San Jose CA"
+    },
+    "website": "https://www.linkedin.com/in/aakidatta"
+  },
+  "education": [
+    {
+      "institution": "RGPV",
+      "location": "Bhopal, India",
+      "studyType": "BE",
+      "area": "Information Technology ",
+      "startDate": "Jul 2007",
+      "endDate": "Jun 2011"
+    }
+  ],
+  "work": [
+    {
+      "company": "eBay",
+      "website": "",
+      "highlights": [
+        "Enhanced buyers experience by delivering numerous changes to e-commerce platform and drive GMV growth by 3%.",
+        "Modernize technology stack towards cloud native technologies like Kubernetes, Docker and in-house cloud service to enhance platform performance.",
+        "Collaborated with cross-functional teams including product managers, data scientists, and UX/UI designers to deliver end-to-end features, improving user engagement and customer satisfaction by 6%."
+      ],
+      "position": "Staff Software Engineer ",
+      "location": "San Jose, CA",
+      "startDate": "Jun 2023",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Contributed to key Mastercard digital transformation initiatives, including migrating core applications to the cloud (VMware), resulting in 23% reduction in infrastructure costs.",
+        "Provided technical mentorship to junior developers, fostering a culture of learning and continuous improvement in coding practices, design patterns, and system architecture.",
+        "Designed and developed high-performance, secure payment processing systems used by all of Mastercard’s customers globally, adhering to industry standards (PCI-DSS).",
+        "Led the development of APIs and microservices architecture to enable seamless integration of payment gateways with third-party systems, improving transaction processing efficiency by 9%.",
+        "Collaborated with cybersecurity teams to integrate secure coding practices, ensuring all products comply with security standards and minimizing the risk of data breaches."
+      ],
+      "company": "MasterCard",
+      "position": "Senior Software Engineer ",
+      "location": "St. Louis, MO",
+      "startDate": "Apr 2019",
+      "endDate": "Jun 2023"
+    },
+    {
+      "highlights": [
+        "Led the design and development of a modernized internet activation platform, improving the customer onboarding experience and reducing activation times from days to minutes.",
+        "Drove company initiatives to launch mobile phone service as a new line of business, integrating mobile provisioning systems with existing platforms, enabling efficient device activation and customer management.",
+        "Worked closely with various third parties like mobile network providers and mobile phones providers to ensure reliable integration with Charter’s existing infrastructure.",
+        "Provided operational support, ensuring the stability and scalability of both internet and mobile services, and resolving customer-facing issues in a timely manner."
+      ],
+      "company": "Spectrum",
+      "position": "Senior Software Engineer ",
+      "location": "St. Louis, MO",
+      "startDate": "May 2015",
+      "endDate": "Apr 2019"
+    },
+    {
+      "highlights": [
+        "Enhanced credit reporting systems to provide comprehensive insights, expanding beyond negative-only reporting as well as extending capabilities to multiple international markets.",
+        "Contributed to Agile software development processes, participating in sprint planning, code reviews, and continuous integration to ensure high-quality software delivery.",
+        "Provided post-launch support, ensuring system stability, and resolving customer-reported incidents, contributing to a 60% reduction in support tickets."
+      ],
+      "company": "Experian",
+      "position": "Software Engineer ",
+      "location": "Noida, India",
+      "startDate": "Jan 2013",
+      "endDate": "May 2015"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Java",
+        "Python",
+        "Javascript/Typescript"
+      ],
+      "name": "Programming"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "REST",
+        "gRPC", 
+        "GraphQL", 
+        "Webhooks",
+        "SSE",
+        "SpringBoot",
+        "Angular", 
+        "React", 
+        "Node",
+        "FastApi",
+        "Cognito"
+      ],
+      "name": "Web & Frameworks"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "DynamoDB",
+        "Redis", 
+        "S3",
+        "Memcached",
+        "Kafka",
+        "NATS",
+        "RabbitMq", 
+        "SNS",
+        "SQS"
+      ],
+      "name": "Databases & Messaging"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "Docker",
+        "Terraform", 
+        "Kubernetes", 
+        "Splunk",
+        "Dynatrace",
+        "Kibana",
+        "Grafana"
+      ],
+      "name": "CI/CD & Devops"
+    },
+    {
+      "keywords": [
+        "Microservices ",
+        "Event Driven",
+        "CQRS ",
+        "Circuit Breaker",
+        "Saga"
+      ],
+      "name": "Architecture & Design"
+    },
+    {
+      "keywords": [
+        "Mentorship ",
+        "Cross Functional Collaboration",
+        "Architectural decisions",
+        "Coding Standards & Gov."
+      ],
+      "name": "Leadership & Mgmt."
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
